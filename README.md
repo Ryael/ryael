@@ -31,31 +31,31 @@ With a background in science, a passion for good design, and an ever-growing int
 
 You can find more details via my [portfolio site]() (WIP). Meanwhile, here is a taster of my work for easy viewing.
 
-## Victory Fitness
+### Victory Fitness
 
 * [Code Repository](https://github.com/Ryael/victory-fitness)
 * [Live Site](https://ryael.github.io/victory-fitness/)
 
-## Memoria
+### Memoria
 
 * [Code Repository](https://github.com/Ryael/memoria)
 * [Live Site](https://ryael.github.io/memoria/)
 
-## Avarice
+### Avarice
 
 * [Code Repository](https://github.com/Ryael/avarice)
 * [Live Site](https://avarice-txt.herokuapp.com/)
 
-## Paradise Lost
+### Paradise Lost
 
 * [Code Repository](https://github.com/Ryael/paradise-lost)
 * [Live Site](https://paradise-lost-app.herokuapp.com/)
 
-## neon shore
+### neon shore
 
 * [Code Repository](https://github.com/Ryael/neon-shore)
 * [Live Site](https://neon-shore-a156870f9760.herokuapp.com/)
 
 # Github Stats 📊
 
-[![Ryael's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryael)](https://github.com/anuraghazra/github-readme-stats)
+[![Ryael's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryael&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
