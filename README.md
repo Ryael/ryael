@@ -1,4 +1,4 @@
-# Hey, I'm Andrey! <img src="https://github.com/ryael/ryael/blob/master/assets/Hi.gif" width="29px">
+# Hey, I'm Andrey! <img src="https://github.com/ryael/blob/master/assets/Hi.gif" width="29px">
 
 ### I'm a Junior Fullstack Software Developer in Ireland currently looking for work while freelancing on the side.
 
