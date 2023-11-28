@@ -46,12 +46,12 @@ You can find more details via my [portfolio site]() (WIP). Meanwhile, here is a 
 * [Code Repository](https://github.com/Ryael/avarice)
 * [Live Site](https://avarice-txt.herokuapp.com/)
 
-### Paradise Lost
+## Paradise Lost
 
 * [Code Repository](https://github.com/Ryael/paradise-lost)
 * [Live Site](https://paradise-lost-app.herokuapp.com/)
 
-### neon shore
+## neon shore
 
 * [Code Repository](https://github.com/Ryael/neon-shore)
 * [Live Site](https://neon-shore-a156870f9760.herokuapp.com/)
