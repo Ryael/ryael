@@ -4,7 +4,7 @@
 
 With a background in science, a passion for good design, and an ever-growing interest in software development, I'm always looking to learn and better myself. I have a soft spot for design, and the space between development and design is where I thrive. In particular, I love bringing designs to life with code that's clean, easy to maintain, and fulfills the original vision.
 
-I'm Currently working on my **portfolio website**, while learning **React** on the side whenever possible.
+I'm currently working on my **portfolio website**, while learning **React** on the side whenever possible.
 
 # Tech Stack 💻
 
