@@ -4,8 +4,7 @@
 
 With a background in science, a passion for good design, and an ever-growing interest in software development, I'm always looking to learn and better myself. I have a soft spot for design, and the space between development and design is where I thrive. In particular, I love bringing designs to life with code that's clean, easy to maintain, and fulfills the original vision.
 
-- Currently working on: my portfolio.
-- Currently learning: React.
+I'm Currently working on my **portfolio website**, while learning **React** on the side whenever possible.
 
 # Tech Stack 💻
 
@@ -27,7 +26,9 @@ With a background in science, a passion for good design, and an ever-growing int
 
 # Portfolio Projects 📁
 
-You can find more details via my [portfolio site]() (WIP). Meanwhile, here is a taster of my work for easy viewing.
+You can find more details via my [portfolio site]() (WIP). 
+
+Meanwhile, here is a taster of my work for easy viewing.
 
 ### Victory Fitness
 
