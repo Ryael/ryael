@@ -4,10 +4,8 @@
 
 With a background in science, a passion for good design, and an ever-growing interest in software development, I'm always looking to learn and better myself. I have a soft spot for design, and the space between development and design is where I thrive. In particular, I love bringing designs to life with code that's clean, easy to maintain, and fulfills the original vision.
 
-- Currently working on:
-- Currently learning:
--
--
+- Currently working on: my portfolio.
+- Currently learning: React.
 
 # Tech Stack 💻
 
@@ -27,7 +25,7 @@ With a background in science, a passion for good design, and an ever-growing int
 
 ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=flat&logo=Manjaro&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=flat) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
 
-# Portfolio Projects
+# Portfolio Projects 📁
 
 You can find more details via my [portfolio site]() (WIP). Meanwhile, here is a taster of my work for easy viewing.
 
