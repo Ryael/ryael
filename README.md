@@ -26,7 +26,7 @@ I'm currently working on my **portfolio website**, while learning **React** on t
 
 # Portfolio Projects 📁
 
-You can find more details via my [portfolio site]() (WIP). 
+You can find more details via my [portfolio site](https://ryael.github.io/portfolio/) (WIP). 
 
 Meanwhile, here is a taster of my work for easy viewing.
 
